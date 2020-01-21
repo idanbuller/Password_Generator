@@ -1,9 +1,9 @@
 import mysql.connector
 import random
 # db = mysql.connector.connect(
-#   host="localhost",
-#   user="root",
-#   passwd="Idanid1",
+#   host="",
+#   user="",
+#   passwd="",
 # )
 #
 # cursor = db.cursor()
@@ -12,10 +12,10 @@ import random
 
 
 db = mysql.connector.connect(
-  host="localhost",
-  user="root",
-  passwd="Idanid1",
-  database="idan_passwords"
+  host="",
+  user="",
+  passwd="",
+  database=""
 )
 # cursor.execute("CREATE TABLE general_passwords (website VARCHAR(255), user_name VARCHAR(255), password VARCHAR(255))")
 
