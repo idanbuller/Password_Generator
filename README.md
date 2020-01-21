@@ -1,2 +1,3 @@
 # Password_Generator
-Generate A Pass &amp; Log it to .txt file
+Python + MySQL Password Generator 
+The comment lines are for DB creation and Table creation.
